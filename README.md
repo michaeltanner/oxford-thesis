@@ -34,3 +34,14 @@ The LaTeX cheat sheet is your friend.  Google it.  [StackExchange](http://tex.st
 lots of answers to common LaTeX problems.
 
 High-level details on what this template provides can be found [here](http://www.oxfordechoes.com/oxford-thesis-template/).
+
+Example Screenshots
+===================
+
+![Title Page](figures/examples-small/title.png)
+![Table of Contents](figures/examples-small/contents.png)
+![List of Abbreviations](figures/examples-small/abbreviations.png)
+![Chapter Main Page](figures/examples-small/chapter_page.png)
+![Chapter Contents](figures/examples-small/chapter_contents.png)
+
+
