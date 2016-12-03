@@ -13,6 +13,7 @@ In modern LaTeX implementations, you should be able to open Oxford_Thesis.tex wi
 your favorite editor and compile it.  By default, this template uses biber/BibLaTeX
 for references / citations, so you may have to make the appropriate changes in
 your build preferences.  A typical "full build" should be:
+
 1. `pdflatex main.tex`
 2. `biber main`
 3. `pdflatex main.tex`
@@ -26,7 +27,7 @@ Make a new `.tex` file for each chapter and appendix, and place them in the `tex
 folder.  If you'll have a figure-intensive thesis, subfolders in `figures` is a good
 idea.  Use PDF graphics if at all possible.
 
-The LaTeX cheat sheet is your friend.  Google it.  [StackEschange](http://tex.stackexchange.com) has
+The LaTeX cheat sheet is your friend.  Google it.  [StackExchange](http://tex.stackexchange.com) has
 lots of answers to common LaTeX problems.
 
 High-level details on what this template provides can be found [here](http://www.oxfordechoes.com/oxford-thesis-template/).
