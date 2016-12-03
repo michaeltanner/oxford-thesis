@@ -19,6 +19,9 @@ your build preferences.  A typical "full build" should be:
 3. `pdflatex main.tex`
 4. `pdflatex main.tex`
 
+Alternatively, install [latexmk](https://www.ctan.org/pkg/latexmk/?lang=en) and
+execute: `latexmk -pdf -synctex=1 main.tex`.
+
 There should be subfolders called `text` and `figures`.  Keep all your work in these
 folders.  This will make your life much simpler when you need to go about deleting
 files creating while compiling while not deleting your actual thesis.
